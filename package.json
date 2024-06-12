@@ -4,6 +4,7 @@
   "description": "Generates json data based on user input",
   "publisher": "Nayana",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.90.0"
   },

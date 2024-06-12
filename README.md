@@ -59,3 +59,7 @@ The source code of this extension is available on [GitHub](https://github.com/Na
 ## Contribution
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request on [GitHub](https://github.com/Nayana62/JSONDataGenerator).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
