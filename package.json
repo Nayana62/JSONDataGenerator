@@ -2,7 +2,7 @@
   "name": "jsondatagenerator",
   "displayName": "JSONDataGenerator",
   "description": "Generates json data based on user input",
-  "publisher": "Nayana",
+  "publisher": "nayana62",
   "version": "0.0.1",
   "license": "MIT",
   "engines": {
