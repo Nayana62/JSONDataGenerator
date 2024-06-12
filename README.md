@@ -54,3 +54,11 @@ You can also generate JSON data with more specific formats:
 - `main.sub2:string`: Sets the value of "sub2" key nested under "main" as an empty string.
 
 These formats provide more specific instructions for generating JSON data with different key-value combinations.
+
+## Repository
+
+The source code of this extension is available on [GitHub](https://github.com/Nayana62/JSONDataGenerator).
+
+## Contribution
+
+Contributions are welcome! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request on [GitHub](https://github.com/Nayana62/JSONDataGenerator).
