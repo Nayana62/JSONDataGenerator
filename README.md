@@ -51,13 +51,9 @@ You can also generate JSON data with more specific formats:
 
 These formats provide more specific instructions for generating JSON data with different key-value combinations.
 
-## Repository
-
-The source code of this extension is available on [GitHub](https://github.com/Nayana62/JSONDataGenerator).
-
 ## Contribution
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request on [GitHub](https://github.com/Nayana62/JSONDataGenerator).
+Contributions are welcome! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 
 ## License
 
