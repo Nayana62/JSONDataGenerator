@@ -3,7 +3,7 @@
   "displayName": "JSONDataGenerator",
   "description": "Generates json data based on user input",
   "publisher": "nayana62",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "license": "MIT",
   "engines": {
     "vscode": "^1.90.0"
