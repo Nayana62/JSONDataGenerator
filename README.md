@@ -7,7 +7,7 @@ JSON Data Generator is a Visual Studio Code extension that simplifies the proces
 ## Video Demo
 
 Here's a video demonstration of how to use the JSON Data Generator extension:
-![JSONDataGeneratorExtension-gif](https://github.com/Nayana62/JSONDataGenerator/assets/95485122/a68d4229-263a-407c-97d1-a9c3f0438770)
+![JSONDataGeneratorExtensiongif](https://github.com/Nayana62/JSONDataGenerator/assets/95485122/54e5b4eb-05d9-4517-a019-6d532559e18e)
 
 ## Features
 
